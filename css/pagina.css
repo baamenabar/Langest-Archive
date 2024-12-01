@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+#foto_cabeza{
+	margin-top:290px;
+	width:900px;
+	margin-left:50px;
+	float:left;
+}
+
+#cuerpo_bajo_foto{
+	float:left;
+	width:480px;
+	margin-left:50px;
+	margin-top:30px;
+	font-size:11px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+#cuerpo_bajo_foto a{
+	font-size:14px;
+}
+#cuerpo_bajo_foto a:link{
+	color:#333366;
+	text-decoration:underline;
+}
+#cuerpo_bajo_foto a:visited{
+	color:#444488;
+	text-decoration:underline;
+}
+#cuerpo_bajo_foto a:hover{
+	color:#9C7D4E;
+	text-decoration:none;
+}
+#cuerpo_bajo_foto a:active{
+	color:#315732;
+	text-decoration:underline;
+}
